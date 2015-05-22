@@ -1,0 +1,582 @@
+{
+    "113-929": {
+        "key": "aB51PUDz5AaNhkeJ3QV4pAdMAxQ5mArkxfgQu9zLlFnUGbroKX3gwppHkIAIIQDV4br72WSdM7N+53tArYsa1w==",
+        "player": {
+            "android_token": "0",
+            "experience": "70",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqTzBPb3hnOHBiNmM&export=download",
+            "ios_token": "cd629e9671dd2797f32828c5dc0e6f79a1797752f7aef4b463220a09fc3f8ae4",
+            "name": "Cameron Wood",
+            "player_id": "226",
+            "rank": "6",
+            "school_id": "113-929",
+            "spectator": "0",
+            "total": "412",
+            "year": "2015"
+        }
+    },
+    "114-116": {
+        "key": "ysp6BOKPlpoYcdpOXTnJFm5bxvVz/anfwtU90M61xPX+oXlCqedZ5FgZ3I50yxTGpwGuIrYsMFDn5f/LL2aACw==",
+        "player": {
+            "android_token": "0",
+            "experience": "90",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqUk5mMHB2SnBZNTQ&export=download",
+            "ios_token": "9324f3a66d80d597f2b0cc03a80783417702dfb413654c2299336d5d07bd759d",
+            "name": "Leily Arzy",
+            "player_id": "253",
+            "rank": "2",
+            "school_id": "114-116",
+            "spectator": "0",
+            "total": "412",
+            "year": "2015"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqUk5mMHB2SnBZNTQ&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "253",
+            "target": "181",
+            "target_name": "William Ruppenthal",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqYWNrTTR1N0owWkE&export=download"
+        }
+    },
+    "114-127": {
+        "key": "sz5uJvJvVn2YtMVZkARK1uVF1SQaLKakTGxBltklZbvZZS/okjH4STI03161uQOPIiWjNFQdVQBpnEU5yeTOMQ==",
+        "player": {
+            "android_token": "0",
+            "experience": "50",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqTHhmMHVoR3cxZ3c&export=download",
+            "ios_token": "61747e69ba37e62eb5044ab0cfb1800108da15df259cfc8cf5da0453da8dd938",
+            "name": "Brendan Wixen",
+            "player_id": "32",
+            "rank": "18",
+            "school_id": "114-127",
+            "spectator": "0",
+            "total": "412",
+            "year": "2015"
+        }
+    },
+    "114-663": {
+        "key": "vLUN0ksDEHUQ2YE1pZcK+uTWJe1lxbNh1afqEJKvcxkYM9xC4UFjx6HGq+z6VZVUMZSloJUuMqsOlJqcMoDcAg==",
+        "player": {
+            "android_token": "0",
+            "experience": "80",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqcUgtTzhNZ0cwaWM&export=download",
+            "ios_token": "32ffe13048d7f9e4e6b27be5f08e6e0d0424e41d772c40e6269fe4c685a93715",
+            "name": "Malcolm Neill",
+            "player_id": "16",
+            "rank": "4",
+            "school_id": "114-663",
+            "spectator": "0",
+            "total": "412",
+            "year": "2015"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqcUgtTzhNZ0cwaWM&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "16",
+            "target": "215",
+            "target_name": "Felix Brozyna-Vilim",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqZ3QzWUs5ajRmQWs&export=download"
+        }
+    },
+    "114-822": {
+        "key": "mDEM11T3VdSmHIcnUUPuCWCCTTvlU6r+K09QsZHTk/C8Er2NItcY2PPQoOmn46qN89laLKDB9ZCl/37Wtq1WHQ==",
+        "player": {
+            "android_token": "0",
+            "experience": "60",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqa0pwVWt1SWl1S3M&export=download",
+            "ios_token": "b327a2670156fdd8f6ea2e58a7e141e22234e6e8a2316081a3c7ee415ece6c2a",
+            "name": "Eibhlin Villalta",
+            "player_id": "24",
+            "rank": "10",
+            "school_id": "114-822",
+            "spectator": "0",
+            "total": "412",
+            "year": "2015"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqa0pwVWt1SWl1S3M&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "24",
+            "target": "16",
+            "target_name": "Malcolm Neill",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqcUgtTzhNZ0cwaWM&export=download"
+        }
+    },
+    "115-160": {
+        "key": "5PWZm15dWTop2RWdUjmx4ns1FtG0kHTb6LiEBRl8AHjpwMCSCNq9wMrsBz+VtP09gKOTk6nTK4eNgnhvCC0bPw==",
+        "player": {
+            "android_token": "APA91bHoBxie5GCP1rKAHb98synRPIWOv4_pqoo18K8NvZeBp0-5cK83ilvwHZqguLiq3i5xzjhTaceB_lUyzCe3r_tZwlhyRhqlKq9i0YN8py4fQZCRTIWuR1KSJymSVnE9pQGPit68ETw2SmIdHhPlq1qo4gvaxQ",
+            "experience": "60",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqY0lPTFlwMlQtVzA&export=download",
+            "ios_token": "0",
+            "name": "Jackson Grayson",
+            "player_id": "269",
+            "rank": "10",
+            "school_id": "115-160",
+            "spectator": "0",
+            "total": "412",
+            "year": "2015"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqY0lPTFlwMlQtVzA&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "269",
+            "target": "163",
+            "target_name": "Natalie Wiegand",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqM0hpU1FXVmQ5aEk&export=download"
+        }
+    },
+    "115-451": {
+        "key": "15zpwzkSkfklWOOt58EAemp8oPt5BIcg0Ex/IZswEET6EG6FM8mrLCo4eqNuudABsZ3oEis5Vrq+Y5HKnQyTxQ==",
+        "player": {
+            "android_token": "0",
+            "experience": "110",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqdTBnOGRsZEU5Yms&export=download",
+            "ios_token": "b402d8e77fd2285f83eee19462bfb5493d290926b9048ad0f29a5c95b904b1ef",
+            "name": "Jonathan Klein",
+            "player_id": "123",
+            "rank": "1",
+            "school_id": "115-451",
+            "spectator": "0",
+            "total": "412",
+            "year": "2015"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqdTBnOGRsZEU5Yms&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "123",
+            "target": "94",
+            "target_name": "Conor Kneafsey",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqaTJnVXJseEVKUGs&export=download"
+        }
+    },
+    "116-622": {
+        "key": "+d2lILB0iSdYMVas8lceeruI28+V1Ax1hI3h7USnSwhRPwxMo7Oz24tQkQ4lvcfpF0HeEUYTg7jTPNFKqRmb+Q==",
+        "player": {
+            "android_token": "0",
+            "experience": "60",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqWE83ajRFSVloZWM&export=download",
+            "ios_token": "a89cdc46343ca80409c1df40755728cb7726f2a10c8e388dae16bbfb9aac466f",
+            "name": "Gilbert Anwar",
+            "player_id": "65",
+            "rank": "10",
+            "school_id": "116-622",
+            "spectator": "0",
+            "total": "412",
+            "year": "2015"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqWE83ajRFSVloZWM&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "65",
+            "target": "14",
+            "target_name": "Annabel Lassally",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqMmo4RTYxNWlBclk&export=download"
+        }
+    },
+    "121-776": {
+        "key": "1YJlfv/8OD+miQtr9a5rtXASXRRCK5FR1gRVdqIg3oY4Ak9pTc7C3DxC5O/5ECDdDFJa6dGl8OjSvN88TJoGYw==",
+        "player": {
+            "android_token": "0",
+            "experience": "70",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqZ3l6VFN6SVFwZHM&export=download",
+            "ios_token": "14a6202553bec8cd586a4a241c3f27a9808129bd539b34249529628bfd901cf2",
+            "name": "Jonathan Seymour",
+            "player_id": "31",
+            "rank": "6",
+            "school_id": "121-776",
+            "spectator": "0",
+            "total": "412",
+            "year": "2016"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqZ3l6VFN6SVFwZHM&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "31",
+            "target": "208",
+            "target_name": "Kyle Corman",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqVWlqNnlIQlg3elk&export=download"
+        }
+    },
+    "121-796": {
+        "key": "u9r4R5Jg8GJK6tw/idjaUlWv9jQWPxIp6TLvv6WldqJ+MXKH2nD30YnQ3W3rBT9i/lqeplErwPo/bou19euW0g==",
+        "player": {
+            "android_token": "0",
+            "experience": "80",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqRmdiVW9JRTNRNmM&export=download",
+            "ios_token": "c9221b1707e18a45c342b95542684b6e72a68eda4e9e58a616d6fcc08397efac",
+            "name": "David Ozen",
+            "player_id": "202",
+            "rank": "4",
+            "school_id": "121-796",
+            "spectator": "0",
+            "total": "412",
+            "year": "2016"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqRmdiVW9JRTNRNmM&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "202",
+            "target": "317",
+            "target_name": "Laura Lopez",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqMGl2RFd6elBaZE0&export=download"
+        }
+    },
+    "122-225": {
+        "key": "sgYDPNeRcKsnLelFq5MEqZJeClJycK/A6mURolA3+qTNFZIoEautTyRwzbrq9WjJ86Fc2El1Hj/DzPfdUilpTQ==",
+        "player": {
+            "android_token": "APA91bHstaW72sX7UL2_IvDkz_cS2XnOa6Y3ICYDOjvcuRSBMnVPkvg8FjjV5eqtN_jyMKUUaAHWFa-GrT9N2ToYdDejsLIy_vz4hPAUAKW_n8DEg9jPrwv5nhyt00-FqVPkCdsoMcZZXqbCN7tnvbXBE7A4vWuLbw",
+            "experience": "50",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqOWZpUEg3c3dmdjQ&export=download",
+            "ios_token": "0",
+            "name": "Cole Hattler",
+            "player_id": "45",
+            "rank": "18",
+            "school_id": "122-225",
+            "spectator": "0",
+            "total": "412",
+            "year": "2016"
+        }
+    },
+    "122-690": {
+        "key": "vpNZxsayztJRb7E0k9yFViY5m6eJUPzZ+mt/yEInDCcvJ6gEG6v8qTGnwt/7/HI1Fpb8xSZfIHbkyy+TlWH7/w==",
+        "player": {
+            "android_token": "0",
+            "experience": "50",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqd0h4S0U3QWU5LXc&export=download",
+            "ios_token": "c9f704526134b4982c13f31b340d5b6a9855024b8626e3d77b87a165f7b31e0c",
+            "name": "Elizabeth Edel",
+            "player_id": "4",
+            "rank": "18",
+            "school_id": "122-690",
+            "spectator": "0",
+            "total": "412",
+            "year": "2016"
+        }
+    },
+    "122-936": {
+        "key": "Cv4aTOeUcHq/g9rM3ysUOT/xh23bzHcCJ9CpAgHFku3OBYYTXP2L0FLJj/Kivylgvg1848T7Pdhkx8XrUzi1Lg==",
+        "player": {
+            "android_token": "0",
+            "experience": "50",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqRmNGVHlyTWFBWlU&export=download",
+            "ios_token": "7964f3014abe1d46c238201a5afd5658574f0299267df196c25c3cc5228da447",
+            "name": "Duncan Froomer",
+            "player_id": "306",
+            "rank": "18",
+            "school_id": "122-936",
+            "spectator": "0",
+            "total": "412",
+            "year": "2016"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqRmNGVHlyTWFBWlU&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "306",
+            "target": "187",
+            "target_name": "Chase Aldridge",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqZjlDLUtYdWsxQ2c&export=download"
+        }
+    },
+    "123-426": {
+        "key": "jMrfXDXDAvbnGYLU3WsxeIVBySA3LftZIcAhVLWNm15jYiZ1keNs62+MY+ssGeifD8Y6BuZZcbg3+CZnVCDkGA==",
+        "player": {
+            "android_token": "0",
+            "experience": "50",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqaDItQ1JyZDc3Vnc&export=download",
+            "ios_token": "362540be9e2ae35ca7e5d78b106729a7882c0ee6ad823f5a680085794d92530e",
+            "name": "Ryan Ruiz",
+            "player_id": "19",
+            "rank": "18",
+            "school_id": "123-426",
+            "spectator": "0",
+            "total": "412",
+            "year": "2016"
+        }
+    },
+    "124-119": {
+        "key": "UKq6pnOaieoLzlXsdnNhRrnpZXe7Lo13n1X9le4ib9kD4soR4A2IyNFsKmiwE7IlxMUNHFCTOJ2Mad9+2yGf4w==",
+        "player": {
+            "android_token": "0",
+            "experience": "70",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqclRYNkpGVDI1VlE&export=download",
+            "ios_token": "ad7492eb7bfba729c5e763d8d55fa5a62d90a8ea0df7a31dc76aa46b89237de5",
+            "name": "Julia Yount",
+            "player_id": "211",
+            "rank": "6",
+            "school_id": "124-119",
+            "spectator": "0",
+            "total": "412",
+            "year": "2017"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqclRYNkpGVDI1VlE&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "211",
+            "target": "44",
+            "target_name": "Cosima Elwes",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqYjJfclZxM3VqWkk&export=download"
+        }
+    },
+    "126-317": {
+        "key": "iDyW3kp8szp4Kx1urBQ7cONOrhOkx06OrQSNTZ0uQtgUN11qKwEJjKRHJeklsq38YFXvqOKLeMQsy3FZ8kqzow==",
+        "player": {
+            "android_token": "0",
+            "experience": "50",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqZUFMcnZJZDBjUE0&export=download",
+            "ios_token": "0",
+            "name": "Jack Stovitz",
+            "player_id": "23",
+            "rank": "18",
+            "school_id": "126-317",
+            "spectator": "0",
+            "total": "412",
+            "year": "2016"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqZUFMcnZJZDBjUE0&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "23",
+            "target": "13",
+            "target_name": "Henry Quilici",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqbkNYOGM3RVR3SWs&export=download"
+        }
+    },
+    "127-164": {
+        "key": "lJ22oxk9ad+SNSB/UFadiiVtH8sEB6RYawHHGifwkyDLZEKUI638XsLMuZUy35WkKvSrCjd9FsCr0brodYdTTw==",
+        "player": {
+            "android_token": "0",
+            "experience": "50",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqZlZuU2sxSUNTa2c&export=download",
+            "ios_token": "e23f86ba0bc47cebb20c344d20a8de48d261eb265257ed2da5d84a84231fd4db",
+            "name": "Pearl Acord",
+            "player_id": "279",
+            "rank": "18",
+            "school_id": "127-164",
+            "spectator": "0",
+            "total": "412",
+            "year": "2017"
+        }
+    },
+    "128-081": {
+        "key": "h1E5ktgOWtHCWS0cKA3WIoUS9Vlpy57RJjjpUUBSdCO/lBF39Kgv+BwTgp5WQlbO0yR6a7ksXJqb7RoIBMNJ0g==",
+        "player": {
+            "android_token": "0",
+            "experience": "90",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqNWVWbC1PaDY3ZUk&export=download",
+            "ios_token": "990bad9af4890958361ce6a091574a947cdede7768df3db97116b0ce5e925cf2",
+            "name": "Conor Kneafsey",
+            "player_id": "94",
+            "rank": "2",
+            "school_id": "128-081",
+            "spectator": "0",
+            "total": "412",
+            "year": "2017"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqNWVWbC1PaDY3ZUk&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "94",
+            "target": "69",
+            "target_name": "Jacob Gold",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqSF9keUFqa1ptb3c&export=download"
+        }
+    },
+    "128-638": {
+        "key": "revjUehh2JMCkKDoqd6Oqctb6HPkC6Z5S5aA3pQ35YsN29FBRoosFrUFTqz9cTsMi95hw1kijYkfnmSaWyrhnw==",
+        "player": {
+            "android_token": "0",
+            "experience": "60",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqMU9tWkhod2QxRWM&export=download",
+            "ios_token": "1fd9c0c560e10f59e832a6a03dd44605eb0013a60e6779fcc459f626ecde53ed",
+            "name": "Nicolas Brown",
+            "player_id": "296",
+            "rank": "10",
+            "school_id": "128-638",
+            "spectator": "0",
+            "total": "412",
+            "year": "2017"
+        }
+    },
+    "129-061": {
+        "key": "557WwLRNiJaX6QvWTR06e1jtyCJNRQkeJC7pWoymOld+yui2UVgzjFw+FV2mI2IKqzgDJZBVzHzJo0aY+j03Rw==",
+        "player": {
+            "android_token": "0",
+            "experience": "60",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqTzctYmRvX1d2QXM&export=download",
+            "ios_token": "eb8a82d5e7403ab347949c40d686fa9ca5a4926094937c00235bbf3d3a222f81",
+            "name": "Cameron Stine",
+            "player_id": "381",
+            "rank": "10",
+            "school_id": "129-061",
+            "spectator": "0",
+            "total": "412",
+            "year": "2017"
+        }
+    },
+    "129-162": {
+        "key": "NAXdaNQMQ9jP4sk+axTLZx2BbFhW1D4uw68rZPKnr/wjjqHjMkl/NClUKerGyiTLhs38rkyzdBZt+E0Nl27Ang==",
+        "player": {
+            "android_token": "0",
+            "experience": "60",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqN0tLeHJnbXpoZkU&export=download",
+            "ios_token": "e2594c03643488ff5a89ca8ec7ba2a893f536259bc3dbf33b43200bcc8f4f0cc",
+            "name": "Dana Anderson",
+            "player_id": "283",
+            "rank": "10",
+            "school_id": "129-162",
+            "spectator": "0",
+            "total": "412",
+            "year": "2017"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqN0tLeHJnbXpoZkU&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "283",
+            "target": "24",
+            "target_name": "Eibhlin Villalta",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqa0pwVWt1SWl1S3M&export=download"
+        }
+    },
+    "135-126": {
+        "key": "BeXKDoruGHR6/vRqfG9QWaAxOmfISnsJswphbtnCsyVIPCk383td1yfKcGO+4ylOM8pFOTBzlXoNVd/orVePJw==",
+        "player": {
+            "android_token": "0",
+            "experience": "50",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqemJNcVB0Ym9CRU0&export=download",
+            "ios_token": "30a043dce09636cf5547dca8266408d06daeba52db9cc5bfa2ad9e19bca6a229",
+            "name": "Paul Giacomazzi",
+            "player_id": "2",
+            "rank": "18",
+            "school_id": "135-126",
+            "spectator": "0",
+            "total": "412",
+            "year": "2016"
+        }
+    },
+    "138-582": {
+        "key": "7CxUDetA1Y7cvK01GZgJF/fiHqbop+bTHyQ7EBmdiw3ZbEBADCEt725LnuePimni1X+MF8UQUwaCS0720EF6dA==",
+        "player": {
+            "android_token": "APA91bG-VQl6271UCL_b-2Pxl-CZsmnN_GxE51sPsvc0e-LfMM57x7IIRQn51mnEBo0rmQzMY-o4SdaOuD9uiZwC06S-bVgouHQ6AVfzlnNNBn9yGHjmsx-0o5bd-jfaqGoPuwE6uSjWEQ6MUJtewsov2i-HL0CAvA",
+            "experience": "60",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqUnFvc2pzYUpmSnM&export=download",
+            "ios_token": "0",
+            "name": "Gabriel Jenkinson",
+            "player_id": "33",
+            "rank": "10",
+            "school_id": "138-582",
+            "spectator": "0",
+            "total": "412",
+            "year": "2016"
+        }
+    },
+    "141-647": {
+        "key": "7E2QfmzYCq0igRJNItqm5njCeLUTmK1vXrikNlnCCZ4gf2dCjxStX2ePX+cVjLRSnysKSUqjtV2xRXKZmU1QTQ==",
+        "player": {
+            "android_token": "0",
+            "experience": "70",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqVGF6WmhKd1VDZWs&export=download",
+            "ios_token": "f2d8857e7d2d91595fbc11265df258b6363243b90b0f72b4844f98705009f5a6",
+            "name": "Alyson Lo",
+            "player_id": "330",
+            "rank": "6",
+            "school_id": "141-647",
+            "spectator": "0",
+            "total": "412",
+            "year": "2017"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqVGF6WmhKd1VDZWs&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "330",
+            "target": "178",
+            "target_name": "Aaron Esagoff",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqY2FnVFgxWl9DRGc&export=download"
+        }
+    },
+    "Fieldlord": {
+        "key": "zYoLHTJ9bCU6C45CgqpNJdKhmjBMdz5lktqxvOIiKd4zYn4IRO41T2w/vzmg53cvGAuSi8JWMAcuifb+f8ecAQ==",
+        "player": {
+            "android_token": "0",
+            "experience": "60",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqbFFhSlkxOTJhWUU&export=download",
+            "ios_token": "0",
+            "name": "Fieldlord",
+            "player_id": "66",
+            "rank": "10",
+            "school_id": "Fieldlord",
+            "spectator": "0",
+            "total": "412",
+            "year": "1998"
+        },
+        "player_data": {
+            "active": "1",
+            "game_id": "1",
+            "image_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqbFFhSlkxOTJhWUU&export=download",
+            "kill_pending": "0",
+            "kill_requested": 0,
+            "player_id": "66",
+            "target": "374",
+            "target_name": "Chantalle Wang",
+            "target_pending": "0",
+            "target_url": "https://docs.google.com/uc?id=0B7Y7udBKiHZqUkNoUUMtZHVfb3M&export=download"
+        }
+    }
+}
